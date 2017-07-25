@@ -111,10 +111,13 @@ div.links a:first-child {
 
 a.home {
 	color:#FFF;
+	text-decoration:none;
+	border:none;
 }
 
-a.home:visited {
+.home a:visited {
 	color:#FFF;
+	text-decoration:none;
 }
 
 .whoami {
