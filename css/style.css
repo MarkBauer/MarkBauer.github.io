@@ -7,13 +7,13 @@ body {
 	padding:0;
 }
 
-p a{
-	color:##181619;
+a{
+	color:#181619;
 	border-bottom:1px dotted;
 	text-decoration:none;
 }
 
-p a:visited{
+a:visited{
 	color:#181619;
 }
 
@@ -107,6 +107,14 @@ div.links a:first-child {
 	text-transform:uppercase;
 	color:#FFF;
 	text-decoration:none;
+}
+
+a.home {
+	color:#FFF;
+}
+
+a.home:visited {
+	color:#FFF;
 }
 
 .whoami {
