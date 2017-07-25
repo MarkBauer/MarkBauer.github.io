@@ -7,6 +7,16 @@ body {
 	padding:0;
 }
 
+a{
+	color:##181619;
+	border-bottom:1px dotted;
+	text-decoration:none;
+}
+
+a:visited{
+	color:#181619;
+}
+
 p {
 	font-size:18px;
 	letter-spacing:.02em;
@@ -71,6 +81,7 @@ h3.more_available {
 .links a {
 	text-decoration:none;
 	color:#FFF;
+	border:none;
 }
 
 div.links a:visited {
@@ -108,6 +119,17 @@ div.links a:first-child {
 .jobdescription {
 	padding-top:10px;
 	margin:0;
+}
+
+p.jobdescription a{
+	border-bottom:1px dotted #FFF;
+	color:#FFF;
+	text-decoration:none;
+}
+
+p.jobdescription a:visited{
+	border-bottom:1px solid #FFF;
+	color:#FFF;
 }
 
 span.title {
@@ -260,6 +282,7 @@ a.button {
 	color:#FFF;
 	text-decoration:none;
 	border-radius:2px;
+	border:none;
 }
 
 a.button.red {
