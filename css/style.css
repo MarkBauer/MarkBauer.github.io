@@ -134,7 +134,7 @@ a.home {
 }
 
 p.jobdescription a{
-	border-bottom:1px dotted #FFF;
+	border-bottom:1px dotted rgba(255,255,255,.5);
 	color:#FFF;
 	text-decoration:none;
 }
