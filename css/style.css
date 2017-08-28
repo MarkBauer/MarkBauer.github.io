@@ -66,7 +66,7 @@ h3.more_available {
 #short_title_bar {
 	color:#FFF;
 	width:100%;
-	height:480px;
+	height:440px;
 	background-color:#181619;
 	margin:0 0 48px 0;
 	padding:0;
@@ -304,6 +304,11 @@ div.description_container p{
 img.visual_sample {
 	background-color:#FFF;
 	width:48%;
+	margin-bottom: 2%;
+}
+
+.left {
+	margin-right:2%;
 }
 
 a.button {
