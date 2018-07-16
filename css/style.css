@@ -295,6 +295,11 @@ div.intro_blurb {
 	top:110px;
 }
 
+div.intro_blurb_short {
+	position:relative;
+	top:150px;
+}
+
 h1.page_title {
 	margin:0;
 	font-size: 40px;
