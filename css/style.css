@@ -61,10 +61,20 @@ h3.more_available {
 	padding-top:100px;
 }
 
+#logo {
+	display:block;
+	width:181px;
+	height:50px;
+	background-image:url("../images/logo.png");
+	background-repeat:no-repeat;
+	background-size:156px;
+	float:left;
+}
+
 #title_bar {
 	color:#FFF;
 	width:100%;
-	height:600px;
+	height:680px;
 	background-color:#181619;
 	margin:0 0 48px 0;
 	padding:0;
@@ -160,7 +170,7 @@ a.home {
 .whoami {
 	font-size:50px;
 	position:relative;
-	margin-top:185px;
+	margin-top:235px;
 	margin-bottom:0;
 	padding:0;
 }
@@ -292,7 +302,7 @@ p.description {
 
 div.intro_blurb {
 	position:relative;
-	top:110px;
+	top:140px;
 }
 
 div.intro_blurb_short {
