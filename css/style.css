@@ -123,6 +123,7 @@ h3.more_available {
 	text-decoration:none;
 	color:#FFF;
 	border:none;
+	font-size:16px;
 }
 
 div.links a:visited {
@@ -138,7 +139,7 @@ div.links a:first-child {
 	height:18px;
 	position:relative;
 	top:3px;
-	right:6px;
+	right:8px;
 }
 
 .home {
@@ -302,7 +303,7 @@ p.description {
 
 div.intro_blurb {
 	position:relative;
-	top:140px;
+	top:125px;
 }
 
 div.intro_blurb_short {
